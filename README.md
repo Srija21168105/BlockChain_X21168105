@@ -5,7 +5,7 @@
 ## Installation
 
 1. Git Clone <br>
-`git clone https://github.com/agrawallalit/NCI_Blockchain.git` <br>
+`git clone https://github.com/Srija21168105/BlockChain_X21168105.git` <br>
 
 2. Create .env file at the root directory with following content. <br>
 `INFURA_TOKEN= < Infura Project Token >`<br>
